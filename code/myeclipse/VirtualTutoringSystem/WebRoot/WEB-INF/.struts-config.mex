@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlowViewLayout Version="1.2">
+  <StrutsActivity path="/faculytMaster.do" location="298,2256" dimension="250,88" />
+  <StrutsActivity path="/facultyAchievements.do" location="662,1128" dimension="284,88" />
+  <StrutsActivity path="/queries.do" location="2750,50" dimension="238,88" />
+  <StrutsActivity path="/sendQuery.do" location="3050,50" dimension="206,88" />
+  <StrutsActivity path="/CustomerViewQuerys.do" location="2750,250" dimension="209,88" />
+  <StrutsActivity path="/student.do" location="1739,2256" dimension="220,88" />
+  <StrutsActivity path="/facultyOnlineMaster.do" location="2305,1128" dimension="280,88" />
+  <StrutsActivity path="/studentsOnline.do" location="1850,1974" dimension="255,88" />
+  <StrutsActivity path="/courseMaster.do" location="593,2256" dimension="249,88" />
+  <StrutsActivity path="/examinationSchedule.do" location="1649,1128" dimension="283,88" />
+  <StrutsActivity path="/chatRoomMaster.do" location="312,1974" dimension="265,88" />
+  <StrutsActivity path="/newsLetterMaster.do" location="1911,1692" dimension="270,88" />
+  <StrutsActivity path="/emailMaster.do" location="887,2256" dimension="239,88" />
+  <StrutsActivity path="/facultyemailMaster.do" location="1171,2256" dimension="239,88" />
+  <StrutsActivity path="/courseFacultyMaster.do" location="991,1128" dimension="284,88" />
+  <StrutsActivity path="/courseLecturerMaster.do" location="2386,846" dimension="289,88" />
+  <StrutsActivity path="/studentAssignmentSubmission.do" location="1170,0" dimension="327,88" />
+  <StrutsActivity path="/studentsAttendenceMaster.do" location="1542,0" dimension="314,88" />
+  <StrutsActivity path="/studentCourse.do" location="2150,1974" dimension="254,88" />
+  <StrutsActivity path="/studentExaminationMaster.do" location="714,282" dimension="311,88" />
+  <StrutsActivity path="/studentExaminationDetails.do" location="1426,282" dimension="310,88" />
+  <StrutsActivity path="/voiceMailBoxMaster.do" location="2255,1410" dimension="276,88" />
+  <StrutsActivity path="/facultyNoticesMaster.do" location="332,1128" dimension="285,88" />
+  <StrutsActivity path="/register.do" location="1949,0" dimension="222,88" />
+  <StrutsActivity path="/viewCourseMaster.do" location="1548,1974" dimension="257,88" />
+  <StrutsActivity path="/viewFaculty.do" location="1455,2256" dimension="239,88" />
+  <StrutsActivity path="/viewFacultyAchievments.do" location="1748,564" dimension="300,88" />
+  <StrutsActivity path="/viewFacultyOnlineMaster.do" location="1401,564" dimension="302,88" />
+  <StrutsActivity path="/viewStudentMaster.do" location="321,1692" dimension="275,88" />
+  <StrutsActivity path="/viewStudentOnline.do" location="1278,1692" dimension="272,88" />
+  <StrutsActivity path="/viewExaminationSchedule.do" location="703,564" dimension="305,88" />
+  <StrutsActivity path="/viewChatRoomMaster.do" location="0,1128" dimension="287,88" />
+  <StrutsActivity path="/viewsNewsLetterMaster.do" location="1029,846" dimension="297,88" />
+  <StrutsActivity path="/viewEmailMaster.do" location="1242,1974" dimension="261,88" />
+  <StrutsActivity path="/viewVoiceMailBoxMaster.do" location="0,846" dimension="298,88" />
+  <StrutsActivity path="/viewStdntAssignmentSubmission.do" location="411,0" dimension="337,88" />
+  <StrutsActivity path="/viewFacultyAchievements1.do" location="0,282" dimension="312,88" />
+  <StrutsActivity path="/viewFacultyOnlineMaster1.do" location="1781,282" dimension="308,88" />
+  <StrutsActivity path="/viewStudents1.do" location="2449,1974" dimension="253,88" />
+  <StrutsActivity path="/viewStudentsOnline1.do" location="1977,1128" dimension="283,88" />
+  <StrutsActivity path="/viewStudentCourse.do" location="0,1692" dimension="276,88" />
+  <StrutsActivity path="/viewChatRoomMaster1.do" location="1710,846" dimension="293,88" />
+  <StrutsActivity path="/viewNewsLetter1.do" location="622,1974" dimension="265,88" />
+  <StrutsActivity path="/viewEmailMaster1.do" location="2226,1692" dimension="267,88" />
+  <StrutsActivity path="/viewFacultyNotices.do" location="641,1692" dimension="274,88" />
+  <StrutsActivity path="/viewStudentNotices.do" location="323,1410" dimension="277,88" />
+  <StrutsActivity path="/viewFacultyAchievements2.do" location="357,282" dimension="312,88" />
+  <StrutsActivity path="/viewFacultyOnlineMaster2.do" location="2134,282" dimension="308,88" />
+  <StrutsActivity path="/viewStudentAttendance.do" location="343,846" dimension="298,88" />
+  <StrutsActivity path="/viewStudentsOnline.do" location="645,1410" dimension="277,88" />
+  <StrutsActivity path="/viewCourseFaculty.do" location="960,1692" dimension="273,88" />
+  <StrutsActivity path="/viewExamQuestionMaster.do" location="352,564" dimension="306,88" />
+  <StrutsActivity path="/examQuestionMaster.do" location="1320,1128" dimension="284,88" />
+  <StrutsActivity path="/viewStudentExaminationDetails.do" location="793,0" dimension="332,88" />
+  <StrutsActivity path="/viewChatRoomMaster2.do" location="2048,846" dimension="293,88" />
+  <StrutsActivity path="/viewNewsLetterMaster2.do" location="686,846" dimension="298,88" />
+  <StrutsActivity path="/viewEmailMaster2.do" location="0,1974" dimension="267,88" />
+  <StrutsActivity path="/viewStudentExamination.do" location="2093,564" dimension="300,88" />
+  <StrutsActivity path="/viewCourseMaster1.do" location="967,1410" dimension="277,88" />
+  <StrutsActivity path="/viewGeneralCourseMaster.do" location="1289,1410" dimension="277,88" />
+  <StrutsActivity path="/viewNewsLetter3.do" location="932,1974" dimension="265,88" />
+  <StrutsActivity path="/viewStudents3.do" location="0,2256" dimension="253,88" />
+  <StrutsActivity path="/viewFacultyMaster1.do" location="0,1410" dimension="278,88" />
+  <StrutsActivity path="/viewCourseLectureMaster.do" location="0,564" dimension="307,88" />
+  <StrutsActivity path="/viewCourseMaster2.do" location="1611,1410" dimension="277,88" />
+  <StrutsActivity path="/viewStudentAddignSubmissionMaster1.do" location="0,0" dimension="366,88" />
+  <StrutsActivity path="/viewCourseMaster3.do" location="1933,1410" dimension="277,88" />
+  <StrutsActivity path="/changePassword.do" location="1595,1692" dimension="271,88" />
+  <StrutsActivity path="/studentChangePassword.do" location="1053,564" dimension="303,88" />
+  <StrutsActivity path="/adminChangePassword.do" location="1371,846" dimension="294,88" />
+  <StrutsActivity path="/viewExaminationSchedule1.do" location="1070,282" dimension="311,88" />
+  <StrutsActivity path="/viewCourseLectureMaster1.do" location="2259,0" dimension="313,88" />
+  <StrutsActivity path="/FacultyMaster.jsp" location="363,2444" dimension="119,49" />
+  <StrutsActivity path="/FacultyAchievements.jsp" location="727,1316" dimension="153,49" />
+  <StrutsActivity path="/ViewQueryStatus.jsp" location="2750,950" dimension="134,49" />
+  <StrutsActivity path="/StudentMaster.jsp" location="1788,2444" dimension="122,49" />
+  <StrutsActivity path="/FacultyOnlineMaster.jsp" location="2370,1316" dimension="149,49" />
+  <StrutsActivity path="/StudentOnline.jsp" location="1918,2162" dimension="119,49" />
+  <StrutsActivity path="/CourseMaster.jsp" location="658,2444" dimension="118,49" />
+  <StrutsActivity path="/ExaminationSchedule.jsp" location="1714,1316" dimension="152,49" />
+  <StrutsActivity path="/ChatRoomMaster.jsp" location="377,2162" dimension="134,49" />
+  <StrutsActivity path="/NewsLetterMaster.jsp" location="1976,1880" dimension="139,49" />
+  <StrutsActivity path="/EmailMaster.jsp" location="952,2444" dimension="108,49" />
+  <StrutsActivity path="/FacultyEmailMaster.jsp" location="1219,2444" dimension="143,49" />
+  <StrutsActivity path="/CourseFacultyMaster.jsp" location="1056,1316" dimension="153,49" />
+  <StrutsActivity path="/CourseLecturerMaster.jsp" location="2451,1034" dimension="158,49" />
+  <StrutsActivity path="/StudentAssignSubmissionMaster.jsp" location="1231,188" dimension="205,49" />
+  <StrutsActivity path="/StudentAttendanceMaster.jsp" location="1610,188" dimension="178,49" />
+  <StrutsActivity path="/StudentCourseMaster.jsp" location="2199,2162" dimension="156,49" />
+  <StrutsActivity path="/StudentExaminationMaster.jsp" location="779,470" dimension="180,49" />
+  <StrutsActivity path="/StudentExaminationDetails.jsp" location="1491,470" dimension="179,49" />
+  <StrutsActivity path="/VoiceMailBoxMaster.jsp" location="2320,1598" dimension="145,49" />
+  <StrutsActivity path="/FacultyNoticesMaster.jsp" location="397,1316" dimension="154,49" />
+  <StrutsActivity path="/Registerform.jsp" location="1901,188" dimension="113,49" />
+  <StrutsActivity path="/LoginForm.jsp" location="2114,188" dimension="100,49" />
+  <StrutsActivity path="/ViewCourseMaster.jsp" location="1606,2162" dimension="140,49" />
+  <StrutsActivity path="/ViewFacultyMaster.jsp" location="1504,2444" dimension="141,49" />
+  <StrutsActivity path="/ViewFacultyAchievements.jsp" location="1810,752" dimension="175,49" />
+  <StrutsActivity path="/ViewFacultyOnlineMaster.jsp" location="1466,752" dimension="171,49" />
+  <StrutsActivity path="/ViewStudentMaster.jsp" location="386,1880" dimension="144,49" />
+  <StrutsActivity path="/ViewStudentOnline.jsp" location="1343,1880" dimension="141,49" />
+  <StrutsActivity path="/ViewExaminationSchedule.jsp" location="768,752" dimension="174,49" />
+  <StrutsActivity path="/ViewChatRoomMaster.jsp" location="65,1316" dimension="156,49" />
+  <StrutsActivity path="/ViewNewsLetterMaster.jsp" location="1097,1034" dimension="161,49" />
+  <StrutsActivity path="/ViewEmailMaster.jsp" location="1307,2162" dimension="130,49" />
+  <StrutsActivity path="/ViewVoiceMailBoxMaster.jsp" location="65,1034" dimension="167,49" />
+  <StrutsActivity path="/ViewStudentAssignSubmissionMaster.jsp" location="466,188" dimension="227,49" />
+  <StrutsActivity path="/ViewFacultyAchievements1.jsp" location="65,470" dimension="181,49" />
+  <StrutsActivity path="/ViewFacultyOnlineMaster1.jsp" location="1846,470" dimension="177,49" />
+  <StrutsActivity path="/ViewStudentMaster1.jsp" location="2500,2162" dimension="150,49" />
+  <StrutsActivity path="/ViewStudentOnline1.jsp" location="2045,1316" dimension="147,49" />
+  <StrutsActivity path="/ViewStudentCourseMaster.jsp" location="49,1880" dimension="178,49" />
+  <StrutsActivity path="/ViewChatRoomMaster1.jsp" location="1775,1034" dimension="162,49" />
+  <StrutsActivity path="/ViewNewsLetterMaster1.jsp" location="671,2162" dimension="167,49" />
+  <StrutsActivity path="/ViewEmailMaster1.jsp" location="2291,1880" dimension="136,49" />
+  <StrutsActivity path="/ViewFacultyNoticesMaster.jsp" location="690,1880" dimension="176,49" />
+  <StrutsActivity path="/ViewStudentNoticesMaster.jsp" location="372,1598" dimension="179,49" />
+  <StrutsActivity path="/ViewFacultyAchievements2.jsp" location="422,470" dimension="181,49" />
+  <StrutsActivity path="/ViewFacultyOnlineMaster2.jsp" location="2199,470" dimension="177,49" />
+  <StrutsActivity path="/ViewStudentAttendenceMaster.jsp" location="392,1034" dimension="200,49" />
+  <StrutsActivity path="/ViewStudentOnline2.jsp" location="710,1598" dimension="147,49" />
+  <StrutsActivity path="/ViewCourseFacultyMaster.jsp" location="1009,1880" dimension="175,49" />
+  <StrutsActivity path="/ViewExamQuestionMaster.jsp" location="417,752" dimension="175,49" />
+  <StrutsActivity path="/ExamQuestionMaster.jsp" location="1385,1316" dimension="153,49" />
+  <StrutsActivity path="/ViewStudentExaminationDetails.jsp" location="858,188" dimension="201,49" />
+  <StrutsActivity path="/ViewChatRoomMaster2.jsp" location="2113,1034" dimension="162,49" />
+  <StrutsActivity path="/ViewNewsLetterMaster2.jsp" location="751,1034" dimension="167,49" />
+  <StrutsActivity path="/ViewEmailMaster2.jsp" location="65,2162" dimension="136,49" />
+  <StrutsActivity path="/ViewStudentExaminationMaster.jsp" location="2142,752" dimension="202,49" />
+  <StrutsActivity path="/ViewCourseMaster1.jsp" location="1032,1598" dimension="146,49" />
+  <StrutsActivity path="/GeneralViewCourseMaster1.jsp" location="1336,1598" dimension="183,49" />
+  <StrutsActivity path="/ViewNewsLetterMaster3.jsp" location="981,2162" dimension="167,49" />
+  <StrutsActivity path="/ViewStudentMaster3.jsp" location="51,2444" dimension="150,49" />
+  <StrutsActivity path="/ViewFacultyMaster1.jsp" location="65,1598" dimension="147,49" />
+  <StrutsActivity path="/ViewCourseLecturerMaster.jsp" location="63,752" dimension="180,49" />
+  <StrutsActivity path="/ViewCourseMaster2.jsp" location="1676,1598" dimension="146,49" />
+  <StrutsActivity path="/ViewStudentAssignSubmissionMaster1.jsp" location="66,188" dimension="233,49" />
+  <StrutsActivity path="/ViewCourseMaster3.jsp" location="1998,1598" dimension="146,49" />
+  <StrutsActivity path="/Changepassword.jsp" location="1663,1880" dimension="134,49" />
+  <StrutsActivity path="/StudentChangePassword.jsp" location="1118,752" dimension="172,49" />
+  <StrutsActivity path="/AdminChangePassword.jsp" location="1436,1034" dimension="163,49" />
+  <StrutsActivity path="/ViewExaminationSchedule1.jsp" location="1135,470" dimension="180,49" />
+  <StrutsActivity path="/FacultyViewCourseLecturerMaster.jsp" location="2308,188" dimension="215,49" />
+  <StrutsActivity path="/adminhome.jsp" />
+  <StrutsTransition id="/studentChangePassword.do,failure,/StudentChangePassword.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1128,652" />
+      <AbsolutePoint location="1128,702" />
+      <AbsolutePoint location="1161,702" />
+      <AbsolutePoint location="1161,752" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewCourseMaster1.do,viewCourseMaster1,/ViewCourseMaster1.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1105,1498" />
+      <AbsolutePoint location="1105,1598" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/newsLetterMaster.do,success,/NewsLetterMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2113,1780" />
+      <AbsolutePoint location="2113,1830" />
+      <AbsolutePoint location="2080,1830" />
+      <AbsolutePoint location="2080,1880" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewCourseMaster.do,viewCourses,/ViewCourseMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1676,2062" />
+      <AbsolutePoint location="1676,2162" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/student.do,failure,/StudentMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1794,2344" />
+      <AbsolutePoint location="1794,2394" />
+      <AbsolutePoint location="1818,2394" />
+      <AbsolutePoint location="1818,2444" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/voiceMailBoxMaster.do,failure,/VoiceMailBoxMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2324,1498" />
+      <AbsolutePoint location="2324,1548" />
+      <AbsolutePoint location="2356,1548" />
+      <AbsolutePoint location="2356,1598" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewsNewsLetterMaster.do,viewNewsLetter,/ViewNewsLetterMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1177,934" />
+      <AbsolutePoint location="1177,1034" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewFacultyOnlineMaster2.do,viewFacultyOnline2,/ViewFacultyOnlineMaster2.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2288,370" />
+      <AbsolutePoint location="2288,470" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentCourse.do,failure,/StudentCourseMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2213,2062" />
+      <AbsolutePoint location="2213,2112" />
+      <AbsolutePoint location="2238,2112" />
+      <AbsolutePoint location="2238,2162" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/courseFacultyMaster.do,failure,/CourseFacultyMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1062,1216" />
+      <AbsolutePoint location="1062,1266" />
+      <AbsolutePoint location="1094,1266" />
+      <AbsolutePoint location="1094,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentsAttendenceMaster.do,failure,/StudentAttendanceMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1620,88" />
+      <AbsolutePoint location="1620,138" />
+      <AbsolutePoint location="1654,138" />
+      <AbsolutePoint location="1654,188" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewCourseLectureMaster1.do,viewCourseLecture,/FacultyViewCourseLecturerMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2415,88" />
+      <AbsolutePoint location="2415,188" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/courseMaster.do,failure,/CourseMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="655,2344" />
+      <AbsolutePoint location="655,2394" />
+      <AbsolutePoint location="688,2394" />
+      <AbsolutePoint location="688,2444" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/courseFacultyMaster.do,success,/CourseFacultyMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1204,1216" />
+      <AbsolutePoint location="1204,1266" />
+      <AbsolutePoint location="1171,1266" />
+      <AbsolutePoint location="1171,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStudents1.do,viewStudents1,/ViewStudentMaster1.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2575,2062" />
+      <AbsolutePoint location="2575,2162" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/facultyemailMaster.do,success,/FacultyEmailMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1350,2344" />
+      <AbsolutePoint location="1350,2394" />
+      <AbsolutePoint location="1326,2394" />
+      <AbsolutePoint location="1326,2444" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/examQuestionMaster.do,failure,/ExamQuestionMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1391,1216" />
+      <AbsolutePoint location="1391,1266" />
+      <AbsolutePoint location="1423,1266" />
+      <AbsolutePoint location="1423,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewFacultyOnlineMaster.do,viewFacultyOnline,/ViewFacultyOnlineMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1552,652" />
+      <AbsolutePoint location="1552,752" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentCourse.do,success,/StudentCourseMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2340,2062" />
+      <AbsolutePoint location="2340,2112" />
+      <AbsolutePoint location="2316,2112" />
+      <AbsolutePoint location="2316,2162" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/faculytMaster.do,failure,/FacultyMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="360,2344" />
+      <AbsolutePoint location="360,2394" />
+      <AbsolutePoint location="393,2394" />
+      <AbsolutePoint location="393,2444" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStdntAssignmentSubmission.do,viewStdntAssignSubmission,/ViewStudentAssignSubmissionMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="579,88" />
+      <AbsolutePoint location="579,188" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewEmailMaster.do,viewEmails,/ViewEmailMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1372,2062" />
+      <AbsolutePoint location="1372,2162" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStudents3.do,viewStudetns,/ViewStudentMaster3.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="126,2344" />
+      <AbsolutePoint location="126,2444" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewNewsLetterMaster2.do,viewNewsLetter2,/ViewNewsLetterMaster2.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="835,934" />
+      <AbsolutePoint location="835,1034" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentAssignmentSubmission.do,failure,/StudentAssignSubmissionMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1251,88" />
+      <AbsolutePoint location="1251,138" />
+      <AbsolutePoint location="1282,138" />
+      <AbsolutePoint location="1282,188" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/examinationSchedule.do,success,/ExaminationSchedule.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1861,1216" />
+      <AbsolutePoint location="1861,1266" />
+      <AbsolutePoint location="1828,1266" />
+      <AbsolutePoint location="1828,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStudentsOnline1.do,viewStudentsOnline1,/ViewStudentOnline1.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2118,1216" />
+      <AbsolutePoint location="2118,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStudentCourse.do,viewStudentCourse,/ViewStudentCourseMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="138,1780" />
+      <AbsolutePoint location="138,1880" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewExamQuestionMaster.do,viewExamQuestion,/ViewExamQuestionMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="505,652" />
+      <AbsolutePoint location="505,752" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewFacultyAchievements1.do,viewFacultyAchievements1,/ViewFacultyAchievements1.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="156,370" />
+      <AbsolutePoint location="156,470" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentAssignmentSubmission.do,success,/StudentAssignSubmissionMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1415,88" />
+      <AbsolutePoint location="1415,138" />
+      <AbsolutePoint location="1384,138" />
+      <AbsolutePoint location="1384,188" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewCourseFaculty.do,viewCourseFaculty,/ViewCourseFacultyMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1096,1780" />
+      <AbsolutePoint location="1096,1880" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewChatRoomMaster.do,viewChatRoom,/ViewChatRoomMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="143,1216" />
+      <AbsolutePoint location="143,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewExaminationSchedule1.do,viewExaminationSchedule,/ViewExaminationSchedule1.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1225,370" />
+      <AbsolutePoint location="1225,470" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStudentAttendance.do,viewStudntAttendence,/ViewStudentAttendenceMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="492,934" />
+      <AbsolutePoint location="492,1034" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/facultyOnlineMaster.do,failure,/FacultyOnlineMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2375,1216" />
+      <AbsolutePoint location="2375,1266" />
+      <AbsolutePoint location="2407,1266" />
+      <AbsolutePoint location="2407,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentExaminationMaster.do,failure,/StudentExaminationMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="791,370" />
+      <AbsolutePoint location="791,420" />
+      <AbsolutePoint location="824,420" />
+      <AbsolutePoint location="824,470" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewFacultyOnlineMaster1.do,viewFacultyOnlineMaster1,/ViewFacultyOnlineMaster1.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1935,370" />
+      <AbsolutePoint location="1935,470" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/register.do,success,/adminhome.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2060,44" />
+      <AbsolutePoint location="0,0" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/adminChangePassword.do,failure,/AdminChangePassword.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1444,934" />
+      <AbsolutePoint location="1444,984" />
+      <AbsolutePoint location="1477,984" />
+      <AbsolutePoint location="1477,1034" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/sendQuery.do,viewQueriesStatus,/CustomerViewQuerys.do,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="0,0" />
+      <AbsolutePoint location="0,0" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/emailMaster.do,failure,/EmailMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="946,2344" />
+      <AbsolutePoint location="946,2394" />
+      <AbsolutePoint location="979,2394" />
+      <AbsolutePoint location="979,2444" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewFacultyAchievements2.do,viewFacultyAchuievements2,/ViewFacultyAchievements2.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="513,370" />
+      <AbsolutePoint location="513,470" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewChatRoomMaster2.do,viewChatRoomMaster2,/ViewChatRoomMaster2.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2194,934" />
+      <AbsolutePoint location="2194,1034" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewFacultyNotices.do,viewFacultyNotices,/ViewFacultyNoticesMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="778,1780" />
+      <AbsolutePoint location="778,1880" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentsAttendenceMaster.do,success,/StudentAttendanceMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1777,88" />
+      <AbsolutePoint location="1777,138" />
+      <AbsolutePoint location="1743,138" />
+      <AbsolutePoint location="1743,188" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/changePassword.do,failure,/Changepassword.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1662,1780" />
+      <AbsolutePoint location="1662,1830" />
+      <AbsolutePoint location="1697,1830" />
+      <AbsolutePoint location="1697,1880" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/faculytMaster.do,success,/FacultyMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="485,2344" />
+      <AbsolutePoint location="485,2394" />
+      <AbsolutePoint location="452,2394" />
+      <AbsolutePoint location="452,2444" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewEmailMaster2.do,viewEmailMaster2,/ViewEmailMaster2.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="133,2062" />
+      <AbsolutePoint location="133,2162" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/adminChangePassword.do,success,/AdminChangePassword.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1591,934" />
+      <AbsolutePoint location="1591,984" />
+      <AbsolutePoint location="1558,984" />
+      <AbsolutePoint location="1558,1034" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStudentNotices.do,viewFacultyNotices,/ViewStudentNoticesMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="461,1498" />
+      <AbsolutePoint location="461,1598" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/facultyNoticesMaster.do,success,/FacultyNoticesMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="545,1216" />
+      <AbsolutePoint location="545,1266" />
+      <AbsolutePoint location="513,1266" />
+      <AbsolutePoint location="513,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewExaminationSchedule.do,viewExaminationSchedule,/ViewExaminationSchedule.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="855,652" />
+      <AbsolutePoint location="855,752" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/changePassword.do,success,/Changepassword.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1798,1780" />
+      <AbsolutePoint location="1798,1830" />
+      <AbsolutePoint location="1764,1830" />
+      <AbsolutePoint location="1764,1880" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewFaculty.do,viewFaculty,/ViewFacultyMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1574,2344" />
+      <AbsolutePoint location="1574,2444" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewCourseLectureMaster.do,viewCourseLecture,/ViewCourseLecturerMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="153,652" />
+      <AbsolutePoint location="153,752" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/student.do,success,/StudentMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1904,2344" />
+      <AbsolutePoint location="1904,2394" />
+      <AbsolutePoint location="1879,2394" />
+      <AbsolutePoint location="1879,2444" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/courseMaster.do,success,/CourseMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="779,2344" />
+      <AbsolutePoint location="779,2394" />
+      <AbsolutePoint location="747,2394" />
+      <AbsolutePoint location="747,2444" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewFacultyAchievments.do,viewFacultyAchievments,/ViewFacultyAchievements.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1898,652" />
+      <AbsolutePoint location="1898,752" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStudentAddignSubmissionMaster1.do,viewStudentAssignSubmission1,/ViewStudentAssignSubmissionMaster1.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="183,88" />
+      <AbsolutePoint location="183,188" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewGeneralCourseMaster.do,viewCourseMaster1,/GeneralViewCourseMaster1.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1427,1498" />
+      <AbsolutePoint location="1427,1598" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/examQuestionMaster.do,success,/ExamQuestionMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1533,1216" />
+      <AbsolutePoint location="1533,1266" />
+      <AbsolutePoint location="1500,1266" />
+      <AbsolutePoint location="1500,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/chatRoomMaster.do,success,/ChatRoomMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="510,2062" />
+      <AbsolutePoint location="510,2112" />
+      <AbsolutePoint location="478,2112" />
+      <AbsolutePoint location="478,2162" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/voiceMailBoxMaster.do,success,/VoiceMailBoxMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2462,1498" />
+      <AbsolutePoint location="2462,1548" />
+      <AbsolutePoint location="2429,1548" />
+      <AbsolutePoint location="2429,1598" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentExaminationDetails.do,success,/StudentExaminationDetails.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1658,370" />
+      <AbsolutePoint location="1658,420" />
+      <AbsolutePoint location="1625,420" />
+      <AbsolutePoint location="1625,470" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewCourseMaster2.do,viewCourses2,/ViewCourseMaster2.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1749,1498" />
+      <AbsolutePoint location="1749,1598" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewCourseMaster3.do,viewCourseMaster3,/ViewCourseMaster3.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2071,1498" />
+      <AbsolutePoint location="2071,1598" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/CustomerViewQuerys.do,viewQueriesStatus,/ViewQueryStatus.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="0,0" />
+      <AbsolutePoint location="0,0" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStudentExaminationDetails.do,viewStudentExamDetails,/ViewStudentExaminationDetails.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="959,88" />
+      <AbsolutePoint location="959,188" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewVoiceMailBoxMaster.do,viewVoiceMailBoxMaster,/ViewVoiceMailBoxMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="149,934" />
+      <AbsolutePoint location="149,1034" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/courseLecturerMaster.do,success,/CourseLecturerMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2602,934" />
+      <AbsolutePoint location="2602,984" />
+      <AbsolutePoint location="2570,984" />
+      <AbsolutePoint location="2570,1034" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/courseLecturerMaster.do,failure,/CourseLecturerMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2458,934" />
+      <AbsolutePoint location="2458,984" />
+      <AbsolutePoint location="2491,984" />
+      <AbsolutePoint location="2491,1034" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStudentExamination.do,viewStudentExamination,/ViewStudentExaminationMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2243,652" />
+      <AbsolutePoint location="2243,752" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewFacultyMaster1.do,viewFaculty,/ViewFacultyMaster1.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="139,1498" />
+      <AbsolutePoint location="139,1598" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/register.do,success,/LoginForm.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2116,88" />
+      <AbsolutePoint location="2116,138" />
+      <AbsolutePoint location="2164,138" />
+      <AbsolutePoint location="2164,188" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewEmailMaster1.do,viewEmailMaster1,/ViewEmailMaster1.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2359,1780" />
+      <AbsolutePoint location="2359,1880" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentsOnline.do,success,/StudentOnline.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2041,2062" />
+      <AbsolutePoint location="2041,2112" />
+      <AbsolutePoint location="2007,2112" />
+      <AbsolutePoint location="2007,2162" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStudentsOnline.do,viewStudentOnline2,/ViewStudentOnline2.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="783,1498" />
+      <AbsolutePoint location="783,1598" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/facultyAchievements.do,failure,/FacultyAchievements.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="733,1216" />
+      <AbsolutePoint location="733,1266" />
+      <AbsolutePoint location="765,1266" />
+      <AbsolutePoint location="765,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentExaminationDetails.do,failure,/StudentExaminationDetails.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1503,370" />
+      <AbsolutePoint location="1503,420" />
+      <AbsolutePoint location="1536,420" />
+      <AbsolutePoint location="1536,470" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewNewsLetter3.do,viewNewsLetter,/ViewNewsLetterMaster3.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1064,2062" />
+      <AbsolutePoint location="1064,2162" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/facultyNoticesMaster.do,failure,/FacultyNoticesMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="403,1216" />
+      <AbsolutePoint location="403,1266" />
+      <AbsolutePoint location="436,1266" />
+      <AbsolutePoint location="436,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/chatRoomMaster.do,failure,/ChatRoomMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="378,2062" />
+      <AbsolutePoint location="378,2112" />
+      <AbsolutePoint location="411,2112" />
+      <AbsolutePoint location="411,2162" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewChatRoomMaster1.do,viewChatRoomMaster1,/ViewChatRoomMaster1.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1856,934" />
+      <AbsolutePoint location="1856,1034" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentChangePassword.do,success,/StudentChangePassword.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1280,652" />
+      <AbsolutePoint location="1280,702" />
+      <AbsolutePoint location="1247,702" />
+      <AbsolutePoint location="1247,752" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/examinationSchedule.do,failure,/ExaminationSchedule.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1719,1216" />
+      <AbsolutePoint location="1719,1266" />
+      <AbsolutePoint location="1752,1266" />
+      <AbsolutePoint location="1752,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/facultyOnlineMaster.do,success,/FacultyOnlineMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2515,1216" />
+      <AbsolutePoint location="2515,1266" />
+      <AbsolutePoint location="2482,1266" />
+      <AbsolutePoint location="2482,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/facultyemailMaster.do,failure,/FacultyEmailMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1230,2344" />
+      <AbsolutePoint location="1230,2394" />
+      <AbsolutePoint location="1254,2394" />
+      <AbsolutePoint location="1254,2444" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewNewsLetter1.do,viewNewsLetter1,/ViewNewsLetterMaster1.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="754,2062" />
+      <AbsolutePoint location="754,2162" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStudentOnline.do,viewStudentOnline,/ViewStudentOnline.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1414,1780" />
+      <AbsolutePoint location="1414,1880" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/facultyAchievements.do,success,/FacultyAchievements.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="875,1216" />
+      <AbsolutePoint location="875,1266" />
+      <AbsolutePoint location="842,1266" />
+      <AbsolutePoint location="842,1316" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/emailMaster.do,success,/EmailMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1066,2344" />
+      <AbsolutePoint location="1066,2394" />
+      <AbsolutePoint location="1033,2394" />
+      <AbsolutePoint location="1033,2444" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/viewStudentMaster.do,viewStudents,/ViewStudentMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="458,1780" />
+      <AbsolutePoint location="458,1880" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentExaminationMaster.do,success,/StudentExaminationMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="947,370" />
+      <AbsolutePoint location="947,420" />
+      <AbsolutePoint location="914,420" />
+      <AbsolutePoint location="914,470" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/register.do,failure,/Registerform.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="2005,88" />
+      <AbsolutePoint location="2005,138" />
+      <AbsolutePoint location="1957,138" />
+      <AbsolutePoint location="1957,188" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/studentsOnline.do,failure,/StudentOnline.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1913,2062" />
+      <AbsolutePoint location="1913,2112" />
+      <AbsolutePoint location="1947,2112" />
+      <AbsolutePoint location="1947,2162" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/newsLetterMaster.do,failure,/NewsLetterMaster.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="1978,1780" />
+      <AbsolutePoint location="1978,1830" />
+      <AbsolutePoint location="2011,1830" />
+      <AbsolutePoint location="2011,1880" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+</FlowViewLayout>
+
